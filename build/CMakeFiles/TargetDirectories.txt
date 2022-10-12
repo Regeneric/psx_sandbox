@@ -1,0 +1,4 @@
+/home/hkk/Documents/c/ps1/template/build/CMakeFiles/template.dir
+/home/hkk/Documents/c/ps1/template/build/CMakeFiles/iso.dir
+/home/hkk/Documents/c/ps1/template/build/CMakeFiles/edit_cache.dir
+/home/hkk/Documents/c/ps1/template/build/CMakeFiles/rebuild_cache.dir

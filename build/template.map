@@ -1,0 +1,115 @@
+init T ffffffff80010000 1f8	/home/hkk/Documents/c/ps1/template/main.c:242
+__text_start T ffffffff80010000 	/home/hkk/Documents/c/ps1/template/main.c:242
+display T ffffffff800101f8 14c	/home/hkk/Documents/c/ps1/template/main.c:289
+sortCube T ffffffff80010344 2f0	/home/hkk/Documents/c/ps1/template/main.c:307
+lookAt T ffffffff80010634 20c	/home/hkk/Documents/c/ps1/template/main.c:384
+quadClip T ffffffff80010840 168	/home/hkk/Documents/c/ps1/template/main.c:429
+main T ffffffff800109a8 654	/home/hkk/Documents/c/ps1/template/main.c:102
+ClearOTagR T ffffffff80010ffc 
+DrawOTag T ffffffff80011028 
+DrawSync T ffffffff8001107c 
+FntLoad T ffffffff80011118 158
+FntOpen T ffffffff80011270 f0
+FntFlush T ffffffff80011360 2d0
+GetTimInfo T ffffffff80011630 9c
+LoadImage T ffffffff800116cc 
+PutDispEnv T ffffffff80011770 
+PutDrawEnv T ffffffff80011948 
+ReadGPUstat T ffffffff80011abc 
+ResetGraph T ffffffff80011acc 
+VSync T ffffffff80011c4c 
+_vsync_sub t ffffffff80011d54 
+_vsync_irq_callback t ffffffff80011de8 
+SetDefDispEnv T ffffffff80011e40 34
+SetDefDrawEnv T ffffffff80011e74 38
+SetDispMask T ffffffff80011eac 
+SetVideoMode T ffffffff80011ecc 
+ApplyMatrixLV T ffffffff80011f48 
+CompMatrixLV T ffffffff80011fa8 
+InitGeom T ffffffff800120c8 
+isin T ffffffff80012130 64
+icos T ffffffff80012194 64
+RotMatrix T ffffffff800121f8 13c
+TransMatrix T ffffffff80012334 20
+MulMatrix0 T ffffffff80012354 
+PushMatrix T ffffffff8001242c 
+PopMatrix T ffffffff80012478 
+VectorNormalS T ffffffff800124c8 
+InterruptCallback T ffffffff800125a0 
+_global_isr t ffffffff800125fc 
+RestartCallback T ffffffff80012678 
+_96_remove T ffffffff8001270c 
+puts T ffffffff80012718 
+printf T ffffffff80012724 
+InitPAD T ffffffff80012730 
+StartPAD T ffffffff8001273c 
+ReturnFromException T ffffffff80012748 
+SetCustomExitFromException T ffffffff80012754 
+ChangeClearPAD T ffffffff80012760 
+ChangeClearRCnt T ffffffff8001276c 
+EnterCriticalSection T ffffffff80012778 
+ExitCriticalSection T ffffffff80012788 
+GetBSSend T ffffffff80012798 
+InitHeap W ffffffff800127a8 
+SetHeapSize W ffffffff800127d0 
+malloc W ffffffff800127e4 
+calloc W ffffffff80012908 
+free W ffffffff80012944 
+rand T ffffffff8001297c 
+srand T ffffffff800129ac 
+_start T ffffffff800129bc 238
+toupper T ffffffff80012bf4 1c
+strncpy T ffffffff80012c10 4c
+strstr T ffffffff80012c5c fc
+strtok T ffffffff80012d58 114
+memcmp T ffffffff80012e6c 
+memset T ffffffff80012ea0 
+__CTOR_LIST__ D ffffffff80012ee0 
+__CTOR_END__ D ffffffff80012ee8 
+__DTOR_LIST__ D ffffffff80012ef0 
+__DTOR_END__ D ffffffff80012ef8 
+lightMtx D ffffffff80012ef8 20
+colorMtx D ffffffff80012f18 20
+cubeIndices D ffffffff80012f38 30
+cubeNorms D ffffffff80012f68 30
+cubeVerts D ffffffff80012f98 40
+_vsync_rcnt d ffffffff80012fd8 
+_vsync_lasthblank d ffffffff80012fdc 
+vsynctimeout_msg d ffffffff80012fe0 
+resetgraph_msg d ffffffff80012ff0 
+enableint_msg d ffffffff8001300e 
+cbhooks_msg d ffffffff8001302e 
+abouttoen_msg d ffffffff80013053 
+sr_msg d ffffffff80013079 
+psxgpu_credits D ffffffff8001308b 
+dbugfont D ffffffff800130d8 840
+_matrix_stack d ffffffff80013918 
+_norm_table D ffffffff80013938 
+_irq_func_table D ffffffff80013ab8 
+_custom_exit D ffffffff80013ae8 
+_randseed d ffffffff80013b18 
+__bss_start B ffffffff80013b1c 
+screenClip B ffffffff80013b1c 8
+nextPrim B ffffffff80013b24 4
+currentBuff B ffffffff80013b28 4
+_gpu_current_field B ffffffff80013b2c 4
+_hooks_installed B ffffffff80013b30 4
+_vsync_cb_func B ffffffff80013b34 4
+_gpu_standard B ffffffff80013b38 4
+_malloc_addr B ffffffff80013b3c 4
+_malloc_size B ffffffff80013b40 4
+padBuff B ffffffff80013b50 44
+displayBuff B ffffffff80013b94 56db0
+_gp d ffffffff8001bb10 
+_font_clut B ffffffff8006a944 2
+_font_tpage B ffffffff8006a946 2
+_nstreams b ffffffff8006a948 4
+_stream b ffffffff8006a94c e0
+_arg_string_buffer b ffffffff8006aa2c 84
+_argv_buffer b ffffffff8006aab0 40
+__argv B ffffffff8006aaf0 4
+__argc B ffffffff8006aaf4 4
+_strtok_endpos b ffffffff8006aaf8 4
+_strtok_curpos b ffffffff8006aafc 4
+_isr_stack B ffffffff8006ab00 1004
+_end B ffffffff8006bb04 

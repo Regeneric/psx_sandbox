@@ -1,0 +1,25 @@
+# ninja log v5
+0	95	1665585796766770112	CMakeFiles/template.dir/main.c.obj	268fd9f571517b43
+95	108	1665585796780103543	template.elf	a1be43dedbbaa249
+108	135	1665585796773436828	/home/hkk/Documents/c/ps1/template/build/CMakeFiles/iso	cba7c288e721559c
+95	108	1665585796780103543	template.exe	a1be43dedbbaa249
+95	108	1665585796780103543	template.map	a1be43dedbbaa249
+95	108	1665585796780103543	/home/hkk/Documents/c/ps1/template/build/template.exe	a1be43dedbbaa249
+95	108	1665585796780103543	/home/hkk/Documents/c/ps1/template/build/template.map	a1be43dedbbaa249
+108	135	1665585796773436828	/home/hkk/Documents/c/ps1/template/build/template.cue	cba7c288e721559c
+108	135	1665585796773436828	CMakeFiles/iso	cba7c288e721559c
+108	135	1665585796773436828	template.bin	cba7c288e721559c
+108	135	1665585796773436828	template.cue	cba7c288e721559c
+108	135	1665585796773436828	/home/hkk/Documents/c/ps1/template/build/template.bin	cba7c288e721559c
+1	90	1665586028135205467	CMakeFiles/template.dir/main.c.obj	268fd9f571517b43
+90	104	1665586028148538907	template.elf	a1be43dedbbaa249
+90	104	1665586028148538907	template.exe	a1be43dedbbaa249
+90	104	1665586028148538907	template.map	a1be43dedbbaa249
+90	104	1665586028148538907	/home/hkk/Documents/c/ps1/template/build/template.exe	a1be43dedbbaa249
+90	104	1665586028148538907	/home/hkk/Documents/c/ps1/template/build/template.map	a1be43dedbbaa249
+105	131	1665586028145205548	CMakeFiles/iso	cba7c288e721559c
+105	131	1665586028145205548	template.bin	cba7c288e721559c
+105	131	1665586028145205548	template.cue	cba7c288e721559c
+105	131	1665586028145205548	/home/hkk/Documents/c/ps1/template/build/CMakeFiles/iso	cba7c288e721559c
+105	131	1665586028145205548	/home/hkk/Documents/c/ps1/template/build/template.bin	cba7c288e721559c
+105	131	1665586028145205548	/home/hkk/Documents/c/ps1/template/build/template.cue	cba7c288e721559c

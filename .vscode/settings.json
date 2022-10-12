@@ -1,0 +1,8 @@
+{
+    "C_Cpp.default.includePath": [
+        "/opt/psn00bsdk/include/libpsn00b"
+    ],
+    "files.associations": {
+        "psxgte.h": "c"
+    }
+}
